@@ -26,3 +26,7 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 							\_\
 
 	 Fruit Basket          Livestock
+			.-""-.               /\_/\
+		 / .--. \             ( o.o )
+		/ /    \ \             > ^ <
+		| |    | |             /| |\
