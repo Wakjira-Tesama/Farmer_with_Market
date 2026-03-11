@@ -1,1 +1,4 @@
-# Farmer_with_Market
+﻿# AgriBridge (Farmer_with_Market)
+
+Smart, mobile-first platform that connects smallholder farmers to practical knowledge and verified markets.
+
