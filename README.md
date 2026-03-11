@@ -22,3 +22,7 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 					\ \            '----'
 					 \ \      Farmer with Market
 						\ \
+						 \ \
+							\_\
+
+	 Fruit Basket          Livestock
