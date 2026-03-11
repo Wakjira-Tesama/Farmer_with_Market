@@ -30,3 +30,7 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 		 / .--. \             ( o.o )
 		/ /    \ \             > ^ <
 		| |    | |             /| |\
+		\ \    / /            /_| |_\
+		 \ '--' /            /__|__\
+			'-..-'
+```
