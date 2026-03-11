@@ -34,3 +34,7 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 		 \ '--' /            /__|__\
 			'-..-'
 ```
+
+## Table of Contents
+
+- [About](#about)
