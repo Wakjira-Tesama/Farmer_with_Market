@@ -6,3 +6,7 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 	 _
  _( )_                     .-""-.
 (_   _)                   / .--. \
+	| |                    / /    \ \
+	| |       .-""-.       | |    | |
+	| |      / .--. \      | |    | |
+	| |     / /    \ \     | |    | |
