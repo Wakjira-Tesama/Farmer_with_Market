@@ -2,3 +2,7 @@
 
 Smart, mobile-first platform that connects smallholder farmers to practical knowledge and verified markets.
 
+```
+	 _
+ _( )_                     .-""-.
+(_   _)                   / .--. \
