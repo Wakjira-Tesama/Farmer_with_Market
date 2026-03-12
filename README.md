@@ -46,3 +46,7 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 - [Target Users](#target-users)
 - [Key Features](#key-features)
 - [Low-Literacy Access](#low-literacy-access)
+- [Tech Stack](#tech-stack)
+- [System Architecture](#system-architecture)
+- [Detailed Architecture](#detailed-architecture)
+- [Design Architecture](#design-architecture)
