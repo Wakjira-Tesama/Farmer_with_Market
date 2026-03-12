@@ -62,3 +62,7 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 - [Scope and Roadmap](#scope-and-roadmap)
 - [Expected Impact](#expected-impact)
 - [Alignment with Global Goals](#alignment-with-global-goals)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About
