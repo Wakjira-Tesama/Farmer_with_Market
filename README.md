@@ -98,3 +98,7 @@ How the farmer experience changes after using AgriBridge.
 
 ```mermaid
 flowchart LR
+	subgraph Before[Before AgriBridge]
+		B1[Low access to reliable info]
+		B2[Unsuitable crop choices]
+		B3[Weak market connections]
