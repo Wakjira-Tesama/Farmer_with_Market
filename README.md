@@ -78,3 +78,7 @@ AgriBridge also connects farmers with agricultural experts and verified buyers, 
 ## Project Description
 
 AgriBridge combines farmer profiles, advisory services, and market tools into one mobile-first experience. Farmers can learn with audio and video, ask experts for guidance, and list produce for verified buyers. The platform emphasizes low data usage, offline-friendly access, and trusted transactions to improve yields, reduce risk, and increase income.
+
+## Problem Statement
+
+Farmers in rural areas face major challenges:
