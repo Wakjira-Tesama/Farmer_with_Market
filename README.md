@@ -54,3 +54,7 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 - [Farmer-Market Connection](#farmer-market-connection)
 - [Core Modules](#core-modules)
 - [Use Cases](#use-cases)
+- [Sequence Flows](#sequence-flows)
+- [Data Model](#data-model)
+- [Design](#design)
+- [Getting Started](#getting-started)
