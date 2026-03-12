@@ -50,3 +50,7 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 - [System Architecture](#system-architecture)
 - [Detailed Architecture](#detailed-architecture)
 - [Design Architecture](#design-architecture)
+- [Farmer-System Relationship](#farmer-system-relationship)
+- [Farmer-Market Connection](#farmer-market-connection)
+- [Core Modules](#core-modules)
+- [Use Cases](#use-cases)
