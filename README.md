@@ -102,3 +102,7 @@ flowchart LR
 		B1[Low access to reliable info]
 		B2[Unsuitable crop choices]
 		B3[Weak market connections]
+		B4[Exploitative intermediaries]
+		B5[Low income and high risk]
+	end
+
