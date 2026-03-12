@@ -58,3 +58,7 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 - [Data Model](#data-model)
 - [Design](#design)
 - [Getting Started](#getting-started)
+- [Non-Functional Requirements](#non-functional-requirements)
+- [Scope and Roadmap](#scope-and-roadmap)
+- [Expected Impact](#expected-impact)
+- [Alignment with Global Goals](#alignment-with-global-goals)
