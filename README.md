@@ -42,3 +42,7 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 - [Project Description](#project-description)
 - [Problem Statement](#problem-statement)
 - [Before and After](#before-and-after)
+- [Objectives and Goals](#objectives-and-goals)
+- [Target Users](#target-users)
+- [Key Features](#key-features)
+- [Low-Literacy Access](#low-literacy-access)
