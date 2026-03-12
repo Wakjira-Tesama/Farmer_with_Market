@@ -86,3 +86,7 @@ Farmers in rural areas face major challenges:
 - Lack of reliable agricultural information (soil, crops, climate)
 - Poor awareness of crop suitability
 - Limited access to modern farming practices
+- Weak connections to trusted markets
+- Exploitation by illegal traders and intermediaries
+- Low income despite high effort
+
