@@ -82,3 +82,7 @@ AgriBridge combines farmer profiles, advisory services, and market tools into on
 ## Problem Statement
 
 Farmers in rural areas face major challenges:
+
+- Lack of reliable agricultural information (soil, crops, climate)
+- Poor awareness of crop suitability
+- Limited access to modern farming practices
