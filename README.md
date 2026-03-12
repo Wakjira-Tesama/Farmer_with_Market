@@ -94,3 +94,7 @@ These issues lead to crop failure, financial loss, and food insecurity.
 
 ## Before and After
 
+How the farmer experience changes after using AgriBridge.
+
+```mermaid
+flowchart LR
