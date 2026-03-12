@@ -90,3 +90,7 @@ Farmers in rural areas face major challenges:
 - Exploitation by illegal traders and intermediaries
 - Low income despite high effort
 
+These issues lead to crop failure, financial loss, and food insecurity.
+
+## Before and After
+
