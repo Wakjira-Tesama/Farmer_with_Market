@@ -162,3 +162,7 @@ flowchart LR
 How the platform supports farmers who cannot read or write through audio and video guidance.
 
 ```mermaid
+flowchart LR
+	F[Farmer]
+	APP[Mobile App]
+	IVR[Voice/IVR and Audio]
