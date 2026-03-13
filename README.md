@@ -150,3 +150,7 @@ flowchart LR
 
 - Mobile-friendly platform (low data usage)
 - Audio-based learning for accessibility
+- Video tutorials for practical guidance
+- Climate and weather updates
+- Crop and soil recommendations
+- Direct access to agricultural experts
