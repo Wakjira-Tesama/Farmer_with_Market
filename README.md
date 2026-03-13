@@ -110,3 +110,7 @@ flowchart LR
 		A1[Localized audio/video guidance]
 		A2[Crop and soil recommendations]
 		A3[Direct verified buyers]
+		A4[Transparent pricing]
+		A5[Higher income and resilience]
+	end
+
