@@ -106,3 +106,7 @@ flowchart LR
 		B5[Low income and high risk]
 	end
 
+	subgraph After[After AgriBridge]
+		A1[Localized audio/video guidance]
+		A2[Crop and soil recommendations]
+		A3[Direct verified buyers]
