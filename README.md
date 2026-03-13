@@ -122,3 +122,7 @@ flowchart LR
 ```
 
 ## Objectives and Goals
+
+**General objective**: Empower farmers with accessible knowledge and direct market connections to improve productivity and income.
+
+**Specific objectives**:
