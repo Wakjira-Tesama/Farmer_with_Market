@@ -114,3 +114,7 @@ flowchart LR
 		A5[Higher income and resilience]
 	end
 
+	B1 --> A1
+	B2 --> A2
+	B3 --> A3
+	B4 --> A4
