@@ -138,3 +138,7 @@ flowchart LR
 | Horizon                 | Goals                                                                                            |
 | ----------------------- | ------------------------------------------------------------------------------------------------ |
 | Short-Term (4-6 months) | Pilot with 500-1,000 farmers, run training sessions, test AI recommendations and market features |
+| Long-Term               | Scale to 4,000,000+ farmers, expand languages, build nationwide farmer-market ecosystem          |
+
+## Target Users
+
