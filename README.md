@@ -126,3 +126,7 @@ flowchart LR
 **General objective**: Empower farmers with accessible knowledge and direct market connections to improve productivity and income.
 
 **Specific objectives**:
+
+- Provide simple, localized agricultural education
+- Enable data-driven farming decisions
+- Connect farmers to verified markets and buyers
