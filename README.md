@@ -158,3 +158,7 @@ flowchart LR
 - Product listing and promotion tools
 
 ## Low-Literacy Access
+
+How the platform supports farmers who cannot read or write through audio and video guidance.
+
+```mermaid
