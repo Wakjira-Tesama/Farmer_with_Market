@@ -154,3 +154,7 @@ flowchart LR
 - Climate and weather updates
 - Crop and soil recommendations
 - Direct access to agricultural experts
+- Market connection system
+- Product listing and promotion tools
+
+## Low-Literacy Access
