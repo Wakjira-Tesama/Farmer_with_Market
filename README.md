@@ -130,3 +130,7 @@ flowchart LR
 - Provide simple, localized agricultural education
 - Enable data-driven farming decisions
 - Connect farmers to verified markets and buyers
+- Reduce exploitation by intermediaries
+- Improve product quality and income levels
+
+**Goals**:
