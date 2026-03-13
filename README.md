@@ -142,3 +142,7 @@ flowchart LR
 
 ## Target Users
 
+- Smallholder farmers in rural areas
+- Low-literacy farmers
+- Farmers lacking access to experts and markets
+
