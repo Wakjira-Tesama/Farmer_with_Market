@@ -146,3 +146,7 @@ flowchart LR
 - Low-literacy farmers
 - Farmers lacking access to experts and markets
 
+## Key Features
+
+- Mobile-friendly platform (low data usage)
+- Audio-based learning for accessibility
