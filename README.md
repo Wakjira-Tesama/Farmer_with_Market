@@ -166,3 +166,7 @@ flowchart LR
 	F[Farmer]
 	APP[Mobile App]
 	IVR[Voice/IVR and Audio]
+	VIDEO[Video Lessons]
+	AI[AI Helper]
+	NOTIFY[Alerts and Reminders]
+
