@@ -202,3 +202,7 @@ AgriBridge combines mobile and web clients with a scalable backend and AI servic
 flowchart LR
 	subgraph Clients
 		A[Farmer Mobile App]
+		B[Buyer Web Portal]
+		C[Expert/Admin Web Console]
+	end
+
