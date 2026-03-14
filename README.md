@@ -170,3 +170,7 @@ flowchart LR
 	AI[AI Helper]
 	NOTIFY[Alerts and Reminders]
 
+	F -->|Tap icons / voice input| APP
+	APP --> IVR
+	APP --> VIDEO
+	APP --> AI
