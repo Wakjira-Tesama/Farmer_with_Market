@@ -198,3 +198,7 @@ This section will be finalized once the implementation stack is confirmed. Propo
 
 AgriBridge combines mobile and web clients with a scalable backend and AI services.
 
+```mermaid
+flowchart LR
+	subgraph Clients
+		A[Farmer Mobile App]
