@@ -178,3 +178,7 @@ flowchart LR
 	AI -->|Localized guidance| VIDEO
 	NOTIFY -->|Voice or audio alerts| F
 	APP -->|Play audio/video| F
+```
+
+## Tech Stack
+
