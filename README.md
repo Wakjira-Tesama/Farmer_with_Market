@@ -186,3 +186,7 @@ This section will be finalized once the implementation stack is confirmed. Propo
 
 | Layer      | Candidate Options                            |
 | ---------- | -------------------------------------------- |
+| Mobile App | Flutter or React Native                      |
+| Web        | React or Vue                                 |
+| Backend    | Node.js (Express) or Django                  |
+| Database   | PostgreSQL                                   |
