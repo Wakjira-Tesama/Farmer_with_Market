@@ -194,3 +194,7 @@ This section will be finalized once the implementation stack is confirmed. Propo
 | AI/ML      | Python services (recommendations, NLP/voice) |
 | Messaging  | Firebase, Twilio, or local SMS gateways      |
 
+## System Architecture
+
+AgriBridge combines mobile and web clients with a scalable backend and AI services.
+
