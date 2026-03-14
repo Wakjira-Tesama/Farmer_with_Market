@@ -174,3 +174,7 @@ flowchart LR
 	APP --> IVR
 	APP --> VIDEO
 	APP --> AI
+	AI -->|Localized guidance| IVR
+	AI -->|Localized guidance| VIDEO
+	NOTIFY -->|Voice or audio alerts| F
+	APP -->|Play audio/video| F
