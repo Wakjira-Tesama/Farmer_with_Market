@@ -190,3 +190,7 @@ This section will be finalized once the implementation stack is confirmed. Propo
 | Web        | React or Vue                                 |
 | Backend    | Node.js (Express) or Django                  |
 | Database   | PostgreSQL                                   |
+| Storage    | S3-compatible object storage                 |
+| AI/ML      | Python services (recommendations, NLP/voice) |
+| Messaging  | Firebase, Twilio, or local SMS gateways      |
+
