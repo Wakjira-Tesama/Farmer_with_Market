@@ -210,3 +210,7 @@ flowchart LR
 		API[API Gateway]
 		AUTH[Auth and Identity]
 		CONTENT[Content Service]
+		ADVISORY[Expert Advisory]
+		MARKET[Market Service]
+		NOTIFY[Notification Service]
+		AI[AI Recommendation Engine]
