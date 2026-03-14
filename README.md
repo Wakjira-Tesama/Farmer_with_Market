@@ -206,3 +206,7 @@ flowchart LR
 		C[Expert/Admin Web Console]
 	end
 
+	subgraph Platform
+		API[API Gateway]
+		AUTH[Auth and Identity]
+		CONTENT[Content Service]
