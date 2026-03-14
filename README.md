@@ -182,3 +182,7 @@ flowchart LR
 
 ## Tech Stack
 
+This section will be finalized once the implementation stack is confirmed. Proposed placeholders:
+
+| Layer      | Candidate Options                            |
+| ---------- | -------------------------------------------- |
