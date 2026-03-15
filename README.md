@@ -230,3 +230,7 @@ flowchart LR
 	API --> ADVISORY
 	API --> MARKET
 	API --> NOTIFY
+	API --> AI
+	AUTH --> DB
+	CONTENT --> STORE
+	CONTENT --> DB
