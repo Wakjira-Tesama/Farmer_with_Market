@@ -254,3 +254,7 @@ flowchart TB
 	end
 
 	subgraph Edge Layer
+		GW[API Gateway]
+		AUTH[Auth and Identity]
+	end
+
