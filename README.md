@@ -242,3 +242,7 @@ flowchart LR
 ```
 
 ## Detailed Architecture
+
+Deeper view of services, integrations, and data flows.
+
+```mermaid
