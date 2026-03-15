@@ -238,3 +238,7 @@ flowchart LR
 	MARKET --> DB
 	AI --> DB
 	NOTIFY --> DB
+	AI --> CACHE
+```
+
+## Detailed Architecture
