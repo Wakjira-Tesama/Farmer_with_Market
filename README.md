@@ -246,3 +246,7 @@ flowchart LR
 Deeper view of services, integrations, and data flows.
 
 ```mermaid
+flowchart TB
+	subgraph Client Layer
+		M[Farmer Mobile App]
+		W[Buyer Web]
