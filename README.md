@@ -214,3 +214,7 @@ flowchart LR
 		MARKET[Market Service]
 		NOTIFY[Notification Service]
 		AI[AI Recommendation Engine]
+	end
+
+	subgraph Data
+		DB[(Relational DB)]
