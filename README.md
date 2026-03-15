@@ -218,3 +218,7 @@ flowchart LR
 
 	subgraph Data
 		DB[(Relational DB)]
+		STORE[(Object Storage)]
+		CACHE[(Cache)]
+	end
+
