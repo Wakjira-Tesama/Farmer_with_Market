@@ -234,3 +234,7 @@ flowchart LR
 	AUTH --> DB
 	CONTENT --> STORE
 	CONTENT --> DB
+	ADVISORY --> DB
+	MARKET --> DB
+	AI --> DB
+	NOTIFY --> DB
