@@ -222,3 +222,7 @@ flowchart LR
 		CACHE[(Cache)]
 	end
 
+	A --> API
+	B --> API
+	C --> API
+	API --> AUTH
