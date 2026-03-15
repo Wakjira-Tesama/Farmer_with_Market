@@ -250,3 +250,7 @@ flowchart TB
 	subgraph Client Layer
 		M[Farmer Mobile App]
 		W[Buyer Web]
+		X[Expert/Admin Web]
+	end
+
+	subgraph Edge Layer
