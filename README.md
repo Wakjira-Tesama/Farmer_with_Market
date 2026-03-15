@@ -226,3 +226,7 @@ flowchart LR
 	B --> API
 	C --> API
 	API --> AUTH
+	API --> CONTENT
+	API --> ADVISORY
+	API --> MARKET
+	API --> NOTIFY
