@@ -262,3 +262,7 @@ flowchart TB
 		PROFILE[Farmer Profile Service]
 		CONTENT[Content Service]
 		ADVISORY[Advisory Service]
+		MARKET[Market Service]
+		PRICING[Pricing and Offers]
+		NOTIFY[Notification Service]
+		MEDIA[Media Processing]
