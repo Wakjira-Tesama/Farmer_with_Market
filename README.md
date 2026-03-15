@@ -258,3 +258,7 @@ flowchart TB
 		AUTH[Auth and Identity]
 	end
 
+	subgraph Domain Services
+		PROFILE[Farmer Profile Service]
+		CONTENT[Content Service]
+		ADVISORY[Advisory Service]
