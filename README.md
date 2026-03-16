@@ -270,3 +270,7 @@ flowchart TB
 	end
 
 	subgraph Data Layer
+		DB[(Relational DB)]
+		SEARCH[(Search Index)]
+		STORE[(Object Storage)]
+		CACHE[(Cache)]
