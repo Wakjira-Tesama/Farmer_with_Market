@@ -294,3 +294,7 @@ flowchart TB
 	GW --> NOTIFY
 	GW --> AI
 	CONTENT --> STORE
+	CONTENT --> MEDIA
+	PROFILE --> DB
+	ADVISORY --> DB
+	MARKET --> DB
