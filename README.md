@@ -266,3 +266,7 @@ flowchart TB
 		PRICING[Pricing and Offers]
 		NOTIFY[Notification Service]
 		MEDIA[Media Processing]
+		AI[AI Recommendations]
+	end
+
+	subgraph Data Layer
