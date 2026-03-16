@@ -302,3 +302,7 @@ flowchart TB
 	MARKET --> SEARCH
 	AI --> CACHE
 	AI --> DB
+	NOTIFY --> SMS
+	NOTIFY --> WX
+	MARKET --> PAY
+	PROFILE --> MAP
