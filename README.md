@@ -306,3 +306,7 @@ flowchart TB
 	NOTIFY --> WX
 	MARKET --> PAY
 	PROFILE --> MAP
+```
+
+## Design Architecture
+
