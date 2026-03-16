@@ -298,3 +298,7 @@ flowchart TB
 	PROFILE --> DB
 	ADVISORY --> DB
 	MARKET --> DB
+	PRICING --> DB
+	MARKET --> SEARCH
+	AI --> CACHE
+	AI --> DB
