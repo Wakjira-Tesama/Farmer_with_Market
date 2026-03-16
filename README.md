@@ -274,3 +274,7 @@ flowchart TB
 		SEARCH[(Search Index)]
 		STORE[(Object Storage)]
 		CACHE[(Cache)]
+	end
+
+	subgraph External Integrations
+		WX[Weather Provider]
