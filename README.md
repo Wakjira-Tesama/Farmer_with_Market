@@ -278,3 +278,7 @@ flowchart TB
 
 	subgraph External Integrations
 		WX[Weather Provider]
+		PAY[Payments]
+		SMS[SMS/Push Gateway]
+		MAP[Maps/Geo]
+	end
