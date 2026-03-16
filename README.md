@@ -286,3 +286,7 @@ flowchart TB
 	M --> GW
 	W --> GW
 	X --> GW
+	GW --> AUTH
+	GW --> PROFILE
+	GW --> CONTENT
+	GW --> ADVISORY
