@@ -282,3 +282,7 @@ flowchart TB
 		SMS[SMS/Push Gateway]
 		MAP[Maps/Geo]
 	end
+
+	M --> GW
+	W --> GW
+	X --> GW
