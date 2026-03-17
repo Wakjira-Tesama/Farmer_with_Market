@@ -322,3 +322,7 @@ sequenceDiagram
 	participant Market
 
 	Farmer->>App: Open app and select task
+	App->>Gateway: Request feature entry
+	Gateway->>Services: Route to relevant module
+	Services->>Data: Fetch/update records
+	Services->>Market: Match listing with buyers
