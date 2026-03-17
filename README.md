@@ -350,3 +350,7 @@ flowchart LR
 	F -->|List produce| APP
 	F -->|Consume lessons| APP
 	APP --> SYS
+	SYS --> DATA
+	SYS --> EXP
+	SYS --> BUY
+	EXP -->|Advice and diagnosis| SYS
