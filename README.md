@@ -330,3 +330,7 @@ sequenceDiagram
 	Services-->>Gateway: Response payload
 	Gateway-->>App: Render audio/video/text
 	App-->>Farmer: Action confirmation
+```
+
+## Farmer-System Relationship
+
