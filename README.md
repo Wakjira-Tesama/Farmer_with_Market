@@ -354,3 +354,7 @@ flowchart LR
 	SYS --> EXP
 	SYS --> BUY
 	EXP -->|Advice and diagnosis| SYS
+	BUY -->|Orders and offers| SYS
+	SYS -->|Alerts, tips, prices| APP
+	APP -->|Audio, video, text| F
+```
