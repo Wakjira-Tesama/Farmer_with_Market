@@ -358,3 +358,7 @@ flowchart LR
 	SYS -->|Alerts, tips, prices| APP
 	APP -->|Audio, video, text| F
 ```
+
+## Farmer-Market Connection
+
+How farmers connect to buyers through the market service.
