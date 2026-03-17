@@ -314,3 +314,7 @@ User experience flow and system responsibilities at each step.
 
 ```mermaid
 sequenceDiagram
+	participant Farmer
+	participant App
+	participant Gateway
+	participant Services
