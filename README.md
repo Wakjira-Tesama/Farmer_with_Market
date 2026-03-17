@@ -326,3 +326,7 @@ sequenceDiagram
 	Gateway->>Services: Route to relevant module
 	Services->>Data: Fetch/update records
 	Services->>Market: Match listing with buyers
+	Market-->>Services: Orders and offers
+	Services-->>Gateway: Response payload
+	Gateway-->>App: Render audio/video/text
+	App-->>Farmer: Action confirmation
