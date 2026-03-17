@@ -366,3 +366,7 @@ How farmers connect to buyers through the market service.
 ```mermaid
 flowchart LR
 	F[Farmer]
+	APP[Mobile App]
+	MARKET[Market Service]
+	VERIFY[Buyer Verification]
+	BUY[Verified Buyer]
