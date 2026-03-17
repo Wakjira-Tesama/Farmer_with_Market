@@ -346,3 +346,7 @@ flowchart LR
 	DATA[(Data and Content)]
 
 	F -->|Register profile| APP
+	F -->|Ask question| APP
+	F -->|List produce| APP
+	F -->|Consume lessons| APP
+	APP --> SYS
