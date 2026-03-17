@@ -338,3 +338,7 @@ How a farmer interacts with the platform and how the system responds.
 
 ```mermaid
 flowchart LR
+	F[Farmer]
+	APP[Mobile App]
+	SYS[AgriBridge Services]
+	EXP[Expert Network]
