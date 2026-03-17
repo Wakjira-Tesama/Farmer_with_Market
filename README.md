@@ -362,3 +362,7 @@ flowchart LR
 ## Farmer-Market Connection
 
 How farmers connect to buyers through the market service.
+
+```mermaid
+flowchart LR
+	F[Farmer]
