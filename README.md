@@ -318,3 +318,7 @@ sequenceDiagram
 	participant App
 	participant Gateway
 	participant Services
+	participant Data
+	participant Market
+
+	Farmer->>App: Open app and select task
