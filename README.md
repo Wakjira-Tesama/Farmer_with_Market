@@ -310,3 +310,7 @@ flowchart TB
 
 ## Design Architecture
 
+User experience flow and system responsibilities at each step.
+
+```mermaid
+sequenceDiagram
