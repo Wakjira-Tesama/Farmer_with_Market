@@ -342,3 +342,7 @@ flowchart LR
 	APP[Mobile App]
 	SYS[AgriBridge Services]
 	EXP[Expert Network]
+	BUY[Verified Buyers]
+	DATA[(Data and Content)]
+
+	F -->|Register profile| APP
