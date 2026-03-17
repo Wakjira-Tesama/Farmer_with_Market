@@ -334,3 +334,7 @@ sequenceDiagram
 
 ## Farmer-System Relationship
 
+How a farmer interacts with the platform and how the system responds.
+
+```mermaid
+flowchart LR
