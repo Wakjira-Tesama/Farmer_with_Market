@@ -386,3 +386,7 @@ flowchart LR
 ## Core Modules
 
 | Module                 | Purpose                               | Key Outputs              |
+| ---------------------- | ------------------------------------- | ------------------------ |
+| Content and Learning   | Audio/video guides in local languages | Lessons, tips, tutorials |
+| Farmer Profile         | Store farmer, farm, and location data | Profiles, preferences    |
+| Market Connection      | Link farmers to verified buyers       | Listings, offers, orders |
