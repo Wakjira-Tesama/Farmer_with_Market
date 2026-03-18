@@ -390,3 +390,7 @@ flowchart LR
 | Content and Learning   | Audio/video guides in local languages | Lessons, tips, tutorials |
 | Farmer Profile         | Store farmer, farm, and location data | Profiles, preferences    |
 | Market Connection      | Link farmers to verified buyers       | Listings, offers, orders |
+| Expert Advisory        | Connect farmers to agronomists        | Advice, diagnostics      |
+| Notification and Alert | Weather, tips, market price alerts    | SMS, push, voice         |
+
+## Use Cases
