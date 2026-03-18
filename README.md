@@ -406,3 +406,7 @@ flowchart TB
 	UC2((Consume Audio/Video Lessons))
 	UC3((Request Expert Advice))
 	UC4((Receive Weather Alerts))
+	UC5((List Produce for Sale))
+	UC6((Buy Produce))
+	UC7((Verify Buyers and Content))
+
