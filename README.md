@@ -382,3 +382,7 @@ flowchart LR
 	MARKET --> LOG
 	LOG -->|Pickup and delivery| F
 ```
+
+## Core Modules
+
+| Module                 | Purpose                               | Key Outputs              |
