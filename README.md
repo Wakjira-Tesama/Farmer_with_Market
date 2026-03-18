@@ -370,3 +370,7 @@ flowchart LR
 	MARKET[Market Service]
 	VERIFY[Buyer Verification]
 	BUY[Verified Buyer]
+	PAY[Payment and Settlement]
+	LOG[Delivery and Logistics]
+
+	F -->|Create listing| APP
