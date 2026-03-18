@@ -402,3 +402,7 @@ flowchart TB
 	B[Buyer]
 	A[Admin]
 
+	UC1((Register and Setup Profile))
+	UC2((Consume Audio/Video Lessons))
+	UC3((Request Expert Advice))
+	UC4((Receive Weather Alerts))
