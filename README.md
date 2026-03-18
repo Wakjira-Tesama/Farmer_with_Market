@@ -410,3 +410,7 @@ flowchart TB
 	UC6((Buy Produce))
 	UC7((Verify Buyers and Content))
 
+	F --- UC1
+	F --- UC2
+	F --- UC3
+	F --- UC4
