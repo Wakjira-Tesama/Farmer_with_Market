@@ -394,3 +394,7 @@ flowchart LR
 | Notification and Alert | Weather, tips, market price alerts    | SMS, push, voice         |
 
 ## Use Cases
+
+```mermaid
+flowchart TB
+	F[Farmer]
