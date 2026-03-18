@@ -374,3 +374,7 @@ flowchart LR
 	LOG[Delivery and Logistics]
 
 	F -->|Create listing| APP
+	APP -->|Submit listing| MARKET
+	MARKET -->|Verify buyer| VERIFY
+	BUY -->|Place order| MARKET
+	MARKET -->|Confirm order| APP
