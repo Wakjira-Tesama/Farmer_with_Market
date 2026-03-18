@@ -398,3 +398,7 @@ flowchart LR
 ```mermaid
 flowchart TB
 	F[Farmer]
+	E[Expert]
+	B[Buyer]
+	A[Admin]
+
