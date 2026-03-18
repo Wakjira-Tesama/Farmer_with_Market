@@ -378,3 +378,7 @@ flowchart LR
 	MARKET -->|Verify buyer| VERIFY
 	BUY -->|Place order| MARKET
 	MARKET -->|Confirm order| APP
+	MARKET --> PAY
+	MARKET --> LOG
+	LOG -->|Pickup and delivery| F
+```
