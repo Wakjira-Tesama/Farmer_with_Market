@@ -434,3 +434,7 @@ flowchart TB
 
 ### Sequence 1: Farmer Requests Advice
 
+```mermaid
+sequenceDiagram
+	participant Farmer
+	participant App
