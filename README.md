@@ -422,3 +422,7 @@ flowchart TB
 
 ### Primary Use Case Table
 
+| Actor  | Goal                      | Outcome                        |
+| ------ | ------------------------- | ------------------------------ |
+| Farmer | Learn best practices      | Improved farming decisions     |
+| Farmer | Sell produce fairly       | Better prices and faster sales |
