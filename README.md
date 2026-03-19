@@ -414,3 +414,7 @@ flowchart TB
 	F --- UC2
 	F --- UC3
 	F --- UC4
+	F --- UC5
+	B --- UC6
+	E --- UC3
+	A --- UC7
