@@ -442,3 +442,7 @@ sequenceDiagram
 	participant Advisory
 	participant Expert
 
+	Farmer->>App: Submit issue with photo/voice
+	App->>API: Create advisory request
+	API->>Advisory: Queue request
+	Advisory->>Expert: Assign based on crop/location
