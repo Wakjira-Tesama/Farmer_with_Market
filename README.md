@@ -426,3 +426,7 @@ flowchart TB
 | ------ | ------------------------- | ------------------------------ |
 | Farmer | Learn best practices      | Improved farming decisions     |
 | Farmer | Sell produce fairly       | Better prices and faster sales |
+| Expert | Provide guidance          | Reduced crop risk              |
+| Buyer  | Source verified produce   | Trusted supply chain           |
+| Admin  | Maintain platform quality | Reliable, safe ecosystem       |
+
