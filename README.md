@@ -418,3 +418,7 @@ flowchart TB
 	B --- UC6
 	E --- UC3
 	A --- UC7
+```
+
+### Primary Use Case Table
+
