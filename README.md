@@ -438,3 +438,7 @@ flowchart TB
 sequenceDiagram
 	participant Farmer
 	participant App
+	participant API
+	participant Advisory
+	participant Expert
+
