@@ -430,3 +430,7 @@ flowchart TB
 | Buyer  | Source verified produce   | Trusted supply chain           |
 | Admin  | Maintain platform quality | Reliable, safe ecosystem       |
 
+## Sequence Flows
+
+### Sequence 1: Farmer Requests Advice
+
