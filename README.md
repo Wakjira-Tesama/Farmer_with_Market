@@ -446,3 +446,7 @@ sequenceDiagram
 	App->>API: Create advisory request
 	API->>Advisory: Queue request
 	Advisory->>Expert: Assign based on crop/location
+	Expert->>Advisory: Provide guidance
+	Advisory->>API: Respond with recommendations
+	API->>App: Deliver response
+	App->>Farmer: Show audio/text guidance
