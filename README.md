@@ -458,3 +458,7 @@ sequenceDiagram
 sequenceDiagram
 	participant Farmer
 	participant App
+	participant API
+	participant Market
+	participant Buyer
+
