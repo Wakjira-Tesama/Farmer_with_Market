@@ -462,3 +462,7 @@ sequenceDiagram
 	participant Market
 	participant Buyer
 
+	Farmer->>App: Create listing
+	App->>API: Submit listing
+	API->>Market: Store listing
+	Buyer->>API: Browse listings
