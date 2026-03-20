@@ -482,3 +482,7 @@ High-level entities and relationships:
 erDiagram
 	FARMER ||--o{ FARM : owns
 	FARMER ||--o{ LISTING : creates
+	FARMER ||--o{ ADVISORY_REQUEST : submits
+	EXPERT ||--o{ ADVISORY_RESPONSE : writes
+	BUYER ||--o{ ORDER : places
+	LISTING ||--o{ ORDER : fulfills
