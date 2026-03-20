@@ -466,3 +466,7 @@ sequenceDiagram
 	App->>API: Submit listing
 	API->>Market: Store listing
 	Buyer->>API: Browse listings
+	API->>Market: Fetch listings
+	Market->>API: Return matches
+	API->>Buyer: Show listings
+	Buyer->>API: Place order
