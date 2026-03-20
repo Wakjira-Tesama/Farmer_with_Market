@@ -450,3 +450,7 @@ sequenceDiagram
 	Advisory->>API: Respond with recommendations
 	API->>App: Deliver response
 	App->>Farmer: Show audio/text guidance
+```
+
+### Sequence 2: Farmer Lists Produce, Buyer Purchases
+
