@@ -470,3 +470,7 @@ sequenceDiagram
 	Market->>API: Return matches
 	API->>Buyer: Show listings
 	Buyer->>API: Place order
+	API->>Market: Create order
+	Market->>Farmer: Notify sale
+```
+
