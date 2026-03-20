@@ -454,3 +454,7 @@ sequenceDiagram
 
 ### Sequence 2: Farmer Lists Produce, Buyer Purchases
 
+```mermaid
+sequenceDiagram
+	participant Farmer
+	participant App
