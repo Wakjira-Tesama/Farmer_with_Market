@@ -490,3 +490,7 @@ erDiagram
 
 	FARMER {
 		string id
+		string name
+		string phone
+		string language
+	}
