@@ -486,3 +486,7 @@ erDiagram
 	EXPERT ||--o{ ADVISORY_RESPONSE : writes
 	BUYER ||--o{ ORDER : places
 	LISTING ||--o{ ORDER : fulfills
+	CONTENT ||--o{ CONTENT_MEDIA : includes
+
+	FARMER {
+		string id
