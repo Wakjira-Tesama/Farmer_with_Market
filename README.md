@@ -478,3 +478,7 @@ sequenceDiagram
 
 High-level entities and relationships:
 
+```mermaid
+erDiagram
+	FARMER ||--o{ FARM : owns
+	FARMER ||--o{ LISTING : creates
