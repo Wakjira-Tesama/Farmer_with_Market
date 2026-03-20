@@ -474,3 +474,7 @@ sequenceDiagram
 	Market->>Farmer: Notify sale
 ```
 
+## Data Model
+
+High-level entities and relationships:
+
