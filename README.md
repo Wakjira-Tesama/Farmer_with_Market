@@ -498,3 +498,7 @@ erDiagram
 		string id
 		string location
 		string soilType
+	}
+	LISTING {
+		string id
+		string cropType
