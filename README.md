@@ -506,3 +506,7 @@ erDiagram
 		number price
 	}
 	ORDER {
+		string id
+		string status
+		number total
+	}
