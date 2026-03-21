@@ -542,3 +542,7 @@ erDiagram
 
 ### UI Design Outline
 
+```mermaid
+flowchart TD
+	H[Home]
+	H --> L[Learn]
