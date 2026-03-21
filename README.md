@@ -518,3 +518,7 @@ erDiagram
 	ADVISORY_RESPONSE {
 		string id
 		string recommendation
+	}
+	CONTENT {
+		string id
+		string title
