@@ -514,3 +514,7 @@ erDiagram
 		string id
 		string issue
 		string status
+	}
+	ADVISORY_RESPONSE {
+		string id
+		string recommendation
