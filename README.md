@@ -534,3 +534,7 @@ erDiagram
 ## Design
 
 ### Experience Principles
+
+- Audio-first and low-literacy friendly
+- Minimal steps per task
+- Works in low connectivity
