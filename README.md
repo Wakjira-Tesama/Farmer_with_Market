@@ -546,3 +546,7 @@ erDiagram
 flowchart TD
 	H[Home]
 	H --> L[Learn]
+	H --> M[Market]
+	H --> A[Ask Expert]
+	H --> P[Profile]
+	L --> L1[Audio Lessons]
