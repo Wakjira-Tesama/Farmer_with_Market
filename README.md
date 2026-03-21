@@ -494,3 +494,7 @@ erDiagram
 		string phone
 		string language
 	}
+	FARM {
+		string id
+		string location
+		string soilType
