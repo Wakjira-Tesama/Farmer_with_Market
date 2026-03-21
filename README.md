@@ -502,3 +502,7 @@ erDiagram
 	LISTING {
 		string id
 		string cropType
+		number quantity
+		number price
+	}
+	ORDER {
