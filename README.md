@@ -510,3 +510,7 @@ erDiagram
 		string status
 		number total
 	}
+	ADVISORY_REQUEST {
+		string id
+		string issue
+		string status
