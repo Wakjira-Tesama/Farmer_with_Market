@@ -550,3 +550,7 @@ flowchart TD
 	H --> A[Ask Expert]
 	H --> P[Profile]
 	L --> L1[Audio Lessons]
+	L --> L2[Video Tutorials]
+	M --> M1[List Produce]
+	M --> M2[Buyer Offers]
+	A --> A1[Submit Issue]
