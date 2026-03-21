@@ -526,3 +526,7 @@ erDiagram
 	}
 	CONTENT_MEDIA {
 		string id
+		string type
+		string url
+	}
+```
