@@ -522,3 +522,7 @@ erDiagram
 	CONTENT {
 		string id
 		string title
+		string category
+	}
+	CONTENT_MEDIA {
+		string id
