@@ -554,3 +554,87 @@ flowchart TD
 	M --> M1[List Produce]
 	M --> M2[Buyer Offers]
 	A --> A1[Submit Issue]
+	A --> A2[Advice History]
+```
+
+### Design System Tokens (Example)
+
+| Token   | Value   | Usage               |
+| ------- | ------- | ------------------- |
+| Primary | #2E7D32 | Actions, highlights |
+| Accent  | #F4A000 | Alerts, pricing     |
+| Neutral | #2D2D2D | Text                |
+| Surface | #F7F5EF | Background          |
+| Success | #2E8B57 | Positive feedback   |
+
+## Getting Started
+
+These commands are placeholders until the stack is finalized.
+
+### Prerequisites
+
+- Node.js 18+ and npm (or pnpm/yarn)
+- Python 3.10+ (for AI services)
+- PostgreSQL 14+
+
+### Setup
+
+```bash
+# clone the repo
+git clone https://github.com/Wakjira-Tesama/Farmer_with_Market.git
+cd Farmer_with_Market
+
+# install dependencies (example for a Node backend)
+npm install
+```
+
+### Run (Example)
+
+```bash
+# start backend
+npm run dev
+
+# start web app (if in a separate folder)
+cd web
+npm install
+npm run dev
+```
+
+## Non-Functional Requirements
+
+| Quality      | Requirement                                |
+| ------------ | ------------------------------------------ |
+| Scalability  | Support 4M+ users via cloud infrastructure |
+| Usability    | Simple, audio-first interface              |
+| Reliability  | Stable and accurate system performance     |
+| Availability | Works in low-connectivity environments     |
+| Security     | Protect user data and transactions         |
+
+## Scope and Roadmap
+
+| Phase       | Scope                                    |
+| ----------- | ---------------------------------------- |
+| Short-Term  | Pilot in one community or region         |
+| Medium-Term | Expand to multiple regions and languages |
+| Long-Term   | Nationwide scale to millions of farmers  |
+
+## Expected Impact
+
+- Improved farmer decision-making
+- Reduced crop losses
+- Increased income and productivity
+- Stronger farmer-market connections
+- Enhanced food security
+
+## Alignment with Global Goals
+
+- Zero Hunger
+- No Poverty
+
+## Contributing
+
+Contributions are welcome. Please open an issue to discuss major changes and submit a pull request for review.
+
+## License
+
+License is not yet specified. Add a LICENSE file and update this section when decided.
