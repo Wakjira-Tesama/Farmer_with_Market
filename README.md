@@ -1,4 +1,4 @@
-﻿# AgriBridge (Farmer_with_Market)
+# AgriBridge (Farmer_with_Market)
 
 Smart, mobile-first platform that connects smallholder farmers to practical knowledge and verified markets.
 
@@ -70,6 +70,8 @@ Smart, mobile-first platform that connects smallholder farmers to practical know
 AgriBridge is a smart, mobile-based platform designed to support smallholder farmers by providing easy-to-understand agricultural information and direct access to markets. The platform delivers guidance on crops, livestock, soil conditions, and climate using audio and video in local languages, making it accessible to farmers with low literacy levels.
 
 AgriBridge also connects farmers with agricultural experts and verified buyers, enabling fair, efficient product sales. This bridges the gap between knowledge, production, and market access.
+
+![AgriBridge Experience Overview](assets/farmer-market-overview.png)
 
 ## Animation
 
@@ -156,6 +158,8 @@ flowchart LR
 - Direct access to agricultural experts
 - Market connection system
 - Product listing and promotion tools
+
+![AgriBridge Platform Features](assets/agribridge-features.png)
 
 ## Low-Literacy Access
 
@@ -638,3 +642,5 @@ Contributions are welcome. Please open an issue to discuss major changes and sub
 ## License
 
 License is not yet specified. Add a LICENSE file and update this section when decided.
+
+<!-- update 2026-03-22T13:27:24 -->
